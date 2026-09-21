@@ -3,6 +3,13 @@
 openGym — Copyright (C) 2026 Duarte Santos.
 openGym's own code is licensed under the **GNU AGPL v3.0** (see [LICENSE](LICENSE)).
 
+## This fork
+
+**gymNasty** is a fork of [openGym](https://github.com/DuarteSantos8/openGym) by Duarte Santos,
+modified starting 2026-09-21 (rebranding, and independent Docker image builds). It remains
+licensed under the AGPL v3.0 — see [LICENSE](LICENSE) — and carries the original copyright and
+all third-party notices below unchanged, as the license requires.
+
 ## App store exception
 
 As an additional permission under section 7 of the AGPL v3.0, the copyright holder permits

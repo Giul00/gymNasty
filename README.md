@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="openGym" width="720">
+<img src="assets/banner.png" alt="gymNasty" width="720">
 
 <br>
 
@@ -9,6 +9,9 @@
 Plan your week, run guided workouts, track every set and your body weight over time —
 on your phone, synced across devices, behind your own passkey login.
 No account on someone else's server, no subscription, no ads. Just `docker compose up`.
+
+> **gymNasty** is a fork of [openGym](https://github.com/DuarteSantos8/openGym) by Duarte Santos,
+> licensed under the AGPL v3.0 — see [NOTICE.md](NOTICE.md).
 
 <br>
 
@@ -19,16 +22,8 @@ No account on someone else's server, no subscription, no ads. Just `docker compo
 ![Docker](https://img.shields.io/badge/Docker-compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![No tracking](https://img.shields.io/badge/telemetry-none-f472b6?style=flat-square)
 <br>
-[![Pipeline](https://gitlab.com/DuarteSantos8/opengym/badges/main/pipeline.svg?style=flat-square)](https://gitlab.com/DuarteSantos8/opengym/-/pipelines)
-[![Coverage](https://gitlab.com/DuarteSantos8/opengym/badges/main/coverage.svg?job=test:frontend&style=flat-square)](https://gitlab.com/DuarteSantos8/opengym/-/pipelines?ref=main)
-[![Release](https://img.shields.io/github/v/release/DuarteSantos8/openGym?style=flat-square)](https://github.com/DuarteSantos8/openGym/releases)
-![Last commit](https://img.shields.io/github/last-commit/DuarteSantos8/openGym?style=flat-square)
-[![GitHub stars](https://img.shields.io/github/stars/DuarteSantos8/openGym?style=flat-square&logo=github&logoColor=white)](https://github.com/DuarteSantos8/openGym/stargazers)
-[![Issues](https://img.shields.io/github/issues/DuarteSantos8/openGym?style=flat-square)](https://github.com/DuarteSantos8/openGym/issues)
-[![Tests](https://github.com/DuarteSantos8/openGym/actions/workflows/test.yml/badge.svg)](https://github.com/DuarteSantos8/openGym/actions/workflows/test.yml)
-[![Mirror](https://github.com/DuarteSantos8/openGym/actions/workflows/mirror.yml/badge.svg)](https://github.com/DuarteSantos8/openGym/actions/workflows/mirror.yml)
-[![Discord](https://img.shields.io/badge/Discord-join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/e62jY6fwVb)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/duartesantos)
+[![Last commit](https://img.shields.io/github/last-commit/Giul00/gymNasty?style=flat-square)](https://github.com/Giul00/gymNasty)
+[![Issues](https://img.shields.io/github/issues/Giul00/gymNasty?style=flat-square)](https://github.com/Giul00/gymNasty/issues)
 
 </div>
 
